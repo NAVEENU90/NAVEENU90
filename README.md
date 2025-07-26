@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm NAVEEN U</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate ME(A)RN Web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yognJRlfAbej1wjiuFxDzp8fUAgwsAhiPGjlGHUij78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9zb3VyY2UvMDZm/MjFhMTYxOTIxOTE5/LjYzY2Q3ODg3ZDBh/NzAuZ2lm.gif">
 

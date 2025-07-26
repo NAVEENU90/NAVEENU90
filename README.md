@@ -1,31 +1,84 @@
-![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
-<h1 align="center">Hi 👋, I'm NAVEEN U</h1>
-<h3 align="center">A passionate ME(A)RN Web developer</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" width="100%" alt="MasterHead">
+</p>
+
+<h1 align="center">Hi 👋, I'm <span style="color:#0dd3ff">NAVEEN U</span></h1>
+<h3 align="center">🚀 A passionate ME(A)RN Web Developer | Tech Explorer | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://github.com/naveenu90">
+    <img src="https://komarev.com/ghpvc/?username=naveenu90&label=Profile%20views&color=0e75b6&style=flat" alt="naveenu90" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yognJRlfAbej1wjiuFxDzp8fUAgwsAhiPGjlGHUij78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9zb3VyY2UvMDZm/MjFhMTYxOTIxOTE5/LjYzY2Q3ODg3ZDBh/NzAuZ2lm.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenu90&label=Profile%20views&color=0e75b6&style=flat" alt="naveenu90" /> </p>
+- 🌱 Currently learning **JavaScript**  
+- 💬 Ask me about **MERN / MEAN Stack Development**  
+- 🛠️ Exploring new tools like **Tailwind, Figma, Postman**  
+- 📫 Reach me at: **naveenu4321@gmail.com**  
+- 🌐 Check my portfolio: [naveen-portfolio](https://naveenu90.github.io/naveen-portfolio/)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Javascript**
+### 🤝 Connect with me
 
-- 👨‍💻 All of my projects are available at [https://naveenu90.github.io/naveen-portfolio/](https://naveenu90.github.io/naveen-portfolio/)
+---
 
-- 💬 Ask me about **MERN MEAN**
+### 🤝 Connect with Me
 
-- 📫 How to reach me **naveenu4321@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naveen-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-u" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/naveen-u" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:naveenu4321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/naveenu90" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenu90&show_icons=true&locale=en&layout=compact" alt="naveenu90" /></p>
+### 🛠️ Tech Stack & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenu90&show_icons=true&locale=en" alt="naveenu90" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql,angular,java,git,github,figma,photoshop,postman,tailwind,bootstrap,linux" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenu90&" alt="naveenu90" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenu90&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenu90&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenu90&theme=react&hide_border=true" width="70%" />
+</p>
+
+---
+
+### 🔗 Featured Projects
+Check out some of my highlighted work:
+
+- 🎬 **[Ciniverse](https://github.com/NAVEENU90/Ciniverse)** – A streaming website for movies, series, and anime  
+- 📖 **[Comico](https://github.com/NAVEENU90/Comico)** – A comic book eCommerce platform  
+- 🛡️ **[Exam Guard AI](https://ieeexplore.ieee.org/document/xxxxxxx)** – AI-based cheating detection using YOLO & MediaPipe
+
+---
+
+### 💡 Quote of the Day
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+
+---
+

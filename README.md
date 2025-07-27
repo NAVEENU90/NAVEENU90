@@ -25,13 +25,7 @@
 - 🌐 Check my portfolio: [naveen-portfolio](https://naveenu90.github.io/naveen-portfolio/)
 
 ---
-
-### 🤝 Connect with me
-
----
-
 ### 🤝 Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/naveen-u" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />

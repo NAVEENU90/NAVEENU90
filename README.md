@@ -22,7 +22,6 @@
 - 💬 Ask me about **MERN / MEAN Stack Development**  
 - 🛠️ Exploring new tools like **Tailwind, Figma, Postman**  
 - 📫 Reach me at: **naveenu4321@gmail.com**  
-- 🌐 Check my portfolio: [naveen-portfolio](https://naveenu90.github.io/naveen-portfolio/)
 
 ---
 ### 🤝 Connect with Me
